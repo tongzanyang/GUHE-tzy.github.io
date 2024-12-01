@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>这是一篇新的博文</title>
-      <link href="/2024/11/30/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/"/>
-      <url>/2024/11/30/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/</url>
+      <title>通过Hexo静态博客框架,快速搭建各人博客</title>
+      <link href="/2024/11/30/P1/"/>
+      <url>/2024/11/30/P1/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="1-Hexo简介"><a href="#1-Hexo简介" class="headerlink" title="1.Hexo简介"></a><em>1.Hexo简介</em></h1><p>Hexo是一个快速、简洁且高效的静态博客框架，基于 Node.js 开发。它可以帮助你轻松地生成静态网站，并且支持 Markdown 语法，非常适合用于个人博客、项目文档等静态内容的生成。</p><h1 id="2-部署前期准备"><a href="#2-部署前期准备" class="headerlink" title="2.部署前期准备"></a><em>2.部署前期准备</em></h1>]]></content>
       
       
       
